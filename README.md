@@ -1,6 +1,6 @@
 # TScGAN-for-Improving-Semantic-Predictions
 A Two-Stream Conditional Generative Adversarial Network (TScGAN) for Improving Semantic Predictions in Urban Driving Scenes
-![Overview of the proposed post-processing framework:](idea.png)
+![Overview of the proposed post-processing framework:](Figure_1.png)
 
 The proposed scheme is a Two-Stream Conditional Generative Adversarial Network (TScGAN), with one stream having initial semantic segmentation masks predicted by an existing CNN while the other stream utilizes scene images to retain high-level information under a supervised residual network structure. In addition, TScGAN incorporates a novel dynamic weighting mechanism, which leads to significant and consistent gain in segmentation performance.
 
