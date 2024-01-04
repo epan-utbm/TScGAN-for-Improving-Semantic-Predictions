@@ -17,8 +17,7 @@ The pretrained models are found in [TScGAN]()
 
 Several comparative tests on public benchmark driving databases, including Cityscapes, Mapillary, and Berkeley DeepDrive100K, demonstrate the effectiveness of the proposed method when used with state-of-the-art CNN-based semantic segmentation models.
 ![Comparison of results with state of-the-art algorithms on the Cityscapes validation dataset.](City.png)
-Download the high-quality image results by clicking [here]()
-
+Download the high-quality image results by clicking [here](https://drive.google.com/drive/folders/12Ndd-Wtwf3_ReWTh2EMVxR-W6kF9g_-x?usp=sharing)
 # Citing TScGAN
 If you find this framework useful in your work, please cite the paper: 
 
